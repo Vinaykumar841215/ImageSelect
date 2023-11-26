@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776239973067",
+    "project_id": "student-d6b60",
+    "storage_bucket": "student-d6b60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776239973067:android:b092c7c459ec9260a0114e",
+        "android_client_info": {
+          "package_name": "com.example.imageselect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGp_dPRLM4Mk1vM--cNkPFCzK_t_tvTg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776239973067:android:51d967591bfd5287a0114e",
+        "android_client_info": {
+          "package_name": "com.example.newfirebsedata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGp_dPRLM4Mk1vM--cNkPFCzK_t_tvTg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
